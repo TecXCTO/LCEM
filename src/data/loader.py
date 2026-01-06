@@ -1,0 +1,1 @@
+# 2. Setup Mock Mesh (In reality, load via src/data/loader.py)
