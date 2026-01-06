@@ -1,2 +1,7 @@
 numpy
 pydantic
+"numpy>=2.0.0",
+"scipy>=1.12.0",
+"torch>=2.5.0", # For ML-surrogate models
+"pydantic>=2.0", # For strict config validation
+"dvc>=3.0.0",    # Data Version Control
